@@ -1,5 +1,3 @@
-# sql_python_connection 
-
 # FAQ Bot with MySQL and Python
 
 This project implements a simple FAQ bot that uses predefined question-answer pairs. The bot retrieves answers based on user queries. The project also includes instructions for connecting Python to a MySQL database, where FAQ data can be stored and queried.
